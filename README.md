@@ -38,7 +38,7 @@ Projeto de automação de testes desenvolvido em C# utilizando Selenium WebDrive
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/alicefbarbosa/ConsoleSelenium41.git
 ```
 
 Acesse a pasta:
